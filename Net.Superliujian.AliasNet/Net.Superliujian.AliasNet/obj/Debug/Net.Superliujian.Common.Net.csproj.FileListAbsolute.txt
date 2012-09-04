@@ -1,7 +1,0 @@
-C:\KenLew\MyProject\Net.Superliujian.Common.Net\Net.Superliujian.Common.Net\bin\Debug\Net.Superliujian.Common.Net.dll
-C:\KenLew\MyProject\Net.Superliujian.Common.Net\Net.Superliujian.Common.Net\bin\Debug\Net.Superliujian.Common.Net.pdb
-C:\KenLew\MyProject\Net.Superliujian.Common.Net\Net.Superliujian.Common.Net\bin\Debug\HtmlAgilityPack.dll
-C:\KenLew\MyProject\Net.Superliujian.Common.Net\Net.Superliujian.Common.Net\bin\Debug\Newtonsoft.Json-2.0.dll
-C:\KenLew\MyProject\Net.Superliujian.Common.Net\Net.Superliujian.Common.Net\obj\Debug\ResolveAssemblyReference.cache
-C:\KenLew\MyProject\Net.Superliujian.Common.Net\Net.Superliujian.Common.Net\obj\Debug\Net.Superliujian.Common.Net.dll
-C:\KenLew\MyProject\Net.Superliujian.Common.Net\Net.Superliujian.Common.Net\obj\Debug\Net.Superliujian.Common.Net.pdb
